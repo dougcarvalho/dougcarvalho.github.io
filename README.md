@@ -1,10 +1,10 @@
-# 25 days untill Doug and Tathi vacation
+# Empty Page
 
 
-### And counting... :)
+### There's an empty page :)
 
 
 ```markdown
-Are you excited?!?!
+This is a markdown
 ```
 
